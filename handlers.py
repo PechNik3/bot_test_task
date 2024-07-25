@@ -1,4 +1,4 @@
-import logging  # Добавьте эту строку
+import logging
 from aiogram.filters import Command
 from aiogram import types
 from bot_instance import dp
